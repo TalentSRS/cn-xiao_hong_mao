@@ -5,6 +5,7 @@ tags:
  - Beginner
  - Story
 description: Short Chinese translation of the famous children's story.
+image: red_riding_hood.jpg
 units:
  - title:  小红帽
    content: cn_story.xiao_hong_mao.txt
