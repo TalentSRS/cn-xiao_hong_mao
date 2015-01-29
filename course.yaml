@@ -7,6 +7,9 @@ tags:
 description: Short Chinese translation of the famous children's story.
 image: red_riding_hood.jpg
 units:
- - title:  小红帽
+ - title: 小红帽
+   content: images.md
+   stencils: images.yaml
+ - title: Transcript
    content: cn_story.xiao_hong_mao.txt
    stencils: cn_story.xiao_hong_mao.txt.yaml
