@@ -10,6 +10,6 @@ units:
  - title: 小红帽
    content: images.md
    stencils: images.yaml
- - title: Transcript
+ - title: 小红帽 - Transcript
    content: cn_story.xiao_hong_mao.txt
    stencils: cn_story.xiao_hong_mao.txt.yaml
